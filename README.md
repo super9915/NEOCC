@@ -18,3 +18,5 @@
 * [`user_movie_preprocess.py`](user_movie_preprocess.py): 对数据集的预处理，及得到[movies.csv](dataset/movies.csv)，[ratings.csv](dataset/ratings.csv)和[user_movie_rating.npy](user_movie_rating.npy)
 
 * [`user_movie_rating.npy`](user_movie_rating.npy): $610 \times 9742$矩阵， 行为userID，列为movieID，值为用户评分，无评分置零
+
+* [`visualization.py`](visualization.py): 可视化
